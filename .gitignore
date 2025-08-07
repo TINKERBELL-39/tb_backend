@@ -1,0 +1,10 @@
+*.pyc
+*.pyd
+*.so
+*.sqlite3
+*.log
+vector_db/
+logs/
+*.pem
+*README*
+.env
