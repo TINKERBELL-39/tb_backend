@@ -1,3 +1,0 @@
-"""
-Customer Service Core Module
-"""

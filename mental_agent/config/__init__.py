@@ -1,3 +1,0 @@
-"""
-Mental Health Config Module
-"""
